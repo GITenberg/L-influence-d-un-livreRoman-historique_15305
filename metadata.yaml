@@ -25,6 +25,8 @@ description: "The Influence of a Book (French: L'influence d'un livre) is a nove
   \ at spiritual poverty in Quebec.\nThe Influence of a Book, an English language\
   \ translation by Claire Rothman, was published in 1993 and won the John Glassco\
   \ Translation Prize in 1994.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15305#L-influence-d-un-livreRoman-historique
 gutenberg_bookshelf:
 - Canada
 - FR Littérature
