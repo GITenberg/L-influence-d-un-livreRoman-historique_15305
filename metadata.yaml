@@ -1,0 +1,46 @@
+_repo: L-influence-d-un-livreRoman-historique_15305
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Aubert de Gaspé, Philippe
+    aliases:
+    - De Gaspé, Philippe Aubert
+    - Gaspé, Philippe Aubert de
+    - Aubert de Gaspe, Philippe
+    birthdate: 1814
+    deathdate: 1841
+    gutenberg_agent_id: '5987'
+    url: http://www.gutenberg.org/2009/agents/5987
+    wikipedia: http://en.wikipedia.org/wiki/Phillipe-Ignace_Fran%C3%A7ois_Aubert_du_Gasp%C3%A9
+description: "The Influence of a Book (French: L'influence d'un livre) is a novel\
+  \ by the Canadian writer Phillipe-Ignace François Aubert du Gaspé, first published\
+  \ in 1837. It is considered to be the first French Canadian novel, and although\
+  \ the book was not well received initially, it has come to be recognized as a major\
+  \ landmark in Canadian literature.\nIt is the tale of Charles Amand's quest for\
+  \ gold. Between alchemy, the courtship of his daughter Amélie, the legend of Rose\
+  \ Latulipe and the murder of the peddler Guilmette, there is a satirical theme aimed\
+  \ at spiritual poverty in Quebec.\nThe Influence of a Book, an English language\
+  \ translation by Claire Rothman, was published in 1993 and won the John Glassco\
+  \ Translation Prize in 1994.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Canada
+- FR Littérature
+gutenberg_issued: '2005-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15305'
+  wikidata: Q7741995
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French-Canadian fiction'
+- !lcc 'PQ'
+title: 'L''influence d''un livre: Roman historique'
+url: http://www.gutenberg.org/ebooks/15305
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Influence_of_a_Book
